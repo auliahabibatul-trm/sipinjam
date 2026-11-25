@@ -5,7 +5,7 @@
     <title>Daftar Alat</title>
 </head>
 <body>
-    <h1>Sistem Peminjaman Alat</h1>
+    <h1>Sistem Peminjaman Alat - Lab</h1>
     <hr>
     <table border="1" cellpadding="6">
         <tr>
